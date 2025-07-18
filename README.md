@@ -4,7 +4,8 @@ Distributed Systems Project 2025
 
 **Group A54**
 
-**Difficulty level: I am Death incarnate!**
+**Difficulty level: I am Death incarnate! (Most difficult level)**
+### Grade: 19.57 out of 20
 
 ### Team Members
 
